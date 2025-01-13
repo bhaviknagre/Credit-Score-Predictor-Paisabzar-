@@ -52,10 +52,4 @@ The dataset used in this project includes:
 - Extend the analysis to include external financial datasets for a comprehensive view.
 
 
-## Contributors
-- **Your Name**: Data Analysis and Visualization
-- **Other Team Members** (if any): Specify roles
-
-## Contact
-For further information, please contact [Your Email Address].
 
