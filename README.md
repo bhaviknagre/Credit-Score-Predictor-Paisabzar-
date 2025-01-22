@@ -41,6 +41,11 @@ The dataset used in this project includes:
 - **Product Performance**: Bar charts and line graphs showing revenue and adoption trends.
 - **User Activity**: Heatmaps and area charts to track user activity over time.
 
+# Dashboard Visuals
+
+![GOOD](good.png)
+![STANDARD](standard.png)
+
 ## Results and Recommendations
 - Streamline product offerings to align with customer preferences.
 - Invest in targeted marketing for high-potential demographic segments.
